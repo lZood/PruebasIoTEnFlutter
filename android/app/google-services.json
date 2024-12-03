@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "708765865176",
+    "project_id": "smart-pride-442520-e3",
+    "storage_bucket": "smart-pride-442520-e3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708765865176:android:6d94c79389b44c5786b3ad",
+        "android_client_info": {
+          "package_name": "com.example.googleauth_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708765865176-qvsfov9re8qthca8a9te6qgqk4m2voa7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.googleauth_login",
+            "certificate_hash": "712ad33bc75df725d7c4d0a5ccd1d9e134f8c4e0"
+          }
+        },
+        {
+          "client_id": "708765865176-vl39o93ekombccnbspg781k6b4ef0589.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCffoYBNa-gdBuWKgpSIG7JGOKYgRfjrPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708765865176-vl39o93ekombccnbspg781k6b4ef0589.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
